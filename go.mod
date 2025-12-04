@@ -1,3 +1,3 @@
-module github.com/feiin/go-jump-consistent-hash
+module github.com/yangyin5127/go-jump-consistent-hash
 
 go 1.20
